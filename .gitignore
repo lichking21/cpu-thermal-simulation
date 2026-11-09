@@ -1,0 +1,18 @@
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+# Backup file
+*.bak
+*.p
+*.mex*
+*.mlappinstall
+*.mltbx
+*.ctf
+helpsearch*/
+slprj/
+sccprj/
+codegen/
+*.slxc
+.MATLABDriveTag
